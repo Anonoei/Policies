@@ -1,138 +1,168 @@
-Last Updated 2022/05/16
+Last updated 2022/05/27
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://anonoei.com (the “Site”).​
+This Privacy Policy shall be governed and interpreted in accordance with the English language, regardless of any translations made for any purpose whatsoever.
 
-This Policy shall be governed and interpreted in accordance with the English language, regardless of any translations made for any purpose whatsoever.
+This Privacy Policy for Anonoei, a subsidiary of DAAV, LLC ("Company", "we", "us", "our", or "Anonoei"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
+ - Visit our website (https://anonoei.com)
+ - Place an order through our store
+ - Use one of our applications
 
-## Who we are
+**Questions or concerns?** Reading this Privacy Policy will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please use the contact information at the bottom of this page to contact as.
 
-Anonoei, a subsidiary and individual working under DAAV, LLC provides various services, including but not limited to the website https://anonoei.com. If you need to contact me directly, please email contact@anonoei.com, or use my [contact form](htttps://anonoei.com/contact).
+## SUMMARY OF KEY POINTS
+***This summary provides key points from our Privacy Policy, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for. You can also click [here](#section-toc) to go directly to our table of contents.***
 
-## Personal information we may collect, and why we collect it
+**What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Click [here](#section-1) to learn more.
 
-When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, and time zone. 
+**Do we process any sensitive personal information?** We do not process sensitive personal information.
 
-We refer to this automatically-collected information as "Device Information". We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address).
+**Do we receive any information from third parties** We do not receive any personal information from public databases, marketing partners, social media platforms, or other outside sources.
 
-We may collect Device Information using the following technologies:
- - "Cookies" are data files placed on your device on computer and often include an anonymous unique identifier. For more information about cookies, and how to disable them, visit https://allaboutcookies.org
- - "Log files" track actions occurring on the Site, and collect data including your IP address, browser type, Internet Service Provider, referring/exit pages, and date/time stamps
- - "Web beacons" and "tags" are electronic files used to record information about how you browse the Site.
+**How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with the law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Click [here](#section-2) to learn more.
 
-### The store
+**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties if required by law. Click [here](#section-3) to learn more.
 
-Additionally, when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers or other payment identifiers), email address, and phone number. We refer to this information as "Order Information".
+## TABLE OF CONTENTS <span id="section-toc"></span>
+ 1. [WHAT INFORMATION DO WE COLLECT?](#section-1)
+ 2. [HOW DO WE PROCESS YOUR INFORMATION?](#section-2)
+ 3. [WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#section-3)
+ 4. [DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?](#section-4)
+ 5. [HOW DO WE HANDLE YOUR SOCIAL LOGINS?](#section-5)
+ 6. [IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?](#section-6)
+ 7. [HOW LONG DO WE KEEP YOUR INFORMATION?](#section-7)
+ 8. [DO WE COLLECT INFORMATION FROM MINORS?](#section-8)
+ 9. [WHAT ARE YOU PRIVACY RIGHTS?](#section-9)
+ 10. [CONTROLS FOR DO-NO-TRACK FEATURES](#section-10)
+ 11. [DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#section-11)
+ 12. [DO WE MAKE UPDATES TO THIS NOTICE?](#section-12)
+ 13. [HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#section-13)
+ 14. [HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#section-14)
 
-When we reference "Personal Information" in this Privacy Policy, we are talking both about Device Information and Order Information.
+## 1. WHAT INFORMATION DO WE COLLECT? <span id="section-1"></span>
+### **Personal information you disclose to us**
 
-When you purchase from us, we’ll ask you to provide Order Information and optional account information like username and password. We’ll use this information for purposes, such as, to:
+***In short:*** *We collect personal information that you provide us.*
 
- - Send you information about your account and order
+We collect personal information that you voluntarily provide us when you register on the Services, express and interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
+
+**Sensitive Information.** We do not process sensitive information.
+
+All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
+
+### **Information automatically collected**
+
+***In short:*** *Some information - such as your Internet Protocol (IP) address and/or browser and device characteristics - is collected automatically when you visit our Services.*
+
+We automatically collect certain information when you visit, use, or navigate the Services. This information odes not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services, and other technical information. This information is primarily needed to maintain the security and operation of our Services and for reporting purposes. To learn more about this automatically collect information, please see https://www.whatsmyua.info/, and https://www.whatsmyip.org/.
+
+## 2. HOW DO WE PROCESS YOUR INFORMATION <span id="section-2"></span>
+
+***In short:*** *We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with the law. We may also process your information for other purposes with your consent.*
+
+**We process your personal information for a variety of reasons, depending on how you interact with our Services, including:**
+ - Send you information about your account or orders
  - Respond to your requests, including refunds and complaints
  - Process payments and prevent fraud
- - Set up your account for our store
+ - Set up your account for our Services
  - Comply with any legal obligations we have, such as calculating taxes
- - Improve our store offerings
- - Send you marketing messages, if you choose to receive them
+ - Send you marketing message, if you choose to receive them.
 
-### Accounts
+## 3. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION? <span id="section-3"></span>
 
-If you create an account, we will store your name, address, email, and phone number, which will be used to populate the store checkout for future orders. We also store your username and password to ensure you can log in to your account. We generally store this information about you for as long as we need the information for the purposes for which we collect and use it, and we are not legally required to continue to keep it. For example, we will store order information indefinitely for tax and accounting purposes. This includes your Order Information.
+***In short:*** *We may share information in specific situations described in this section and/or with the following third parties.*
 
-### Activity
+We may need to share your personal information in the following situations:
+ - **Business Transfers.** We may share or transfer your information in connect with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business or another company.
+ - **Affiliates.** We may share your information with out affiliates, in which case we require those affiliates to honor this Privacy Policy. Affiliates include any of our subsidiaries, joint venture partners, or other companies that we control or that are under common control with us.
+ - **Business Partners.** We may share your information with our business partners to offer you certain products, services, or promotions.
 
-This site records certain user actions, in the form of "activity data". Activity data includes updates and comments posted directly to activity streams, as well as descriptions of other actions performed while using the site, such as new friendships, newly joined groups, and profile updates.
+## 4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES? <span id="section-4"></span>
 
-The content of activity data items obey the same privacy rules as the contexts in which the activity items are created. For example, activity updates created in a user's profile is publicly visible, while activity items generated in a private group are visible only to members of that group.
+***In short:*** *We may use cookies and other tracking technologies to collect and store your information.*
 
-Activity items may be deleted at any time by users who created them.
+We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our [Cookie Policy](https://anonoei.com/policies/cookie-policy)
 
-### Messages
+## 5. HOW DO WE HANDLE YOUR SOCIAL LOGINS? <span id="section-5"></span>
 
-The content of private messages is visible only to the sender and the recipients of the message. With the exception of site administrators, who can read all private messages, private message content is never visible to other users or site visitors.
+***In short:*** *If you choose to register or log in to our services using a social media account, we may have to access certain information about you.*
 
-We will also store commends or reviews, if you choose to leave them.
+Our Services may offer you the ability to register and log in using your third-party social media account details (like your Facebook or Twitter logins). Where you choose to do this, we will receive certain profile information about you from your social media provider. The profile information we receive may vary depending on the social media provider concerned, but will often include your name, email address, and profile picture, as well as other information you choose to make public.
 
-### Comments
+We will use the information we receive only for the purposes that are described in this Privacy Policy or that are otherwise made clear to you on the relevant Services. Please note that we do not control, and are not responsible for, other uses of your personal information by your third-party social media provider. We recommend that you review their privacy notice to understand how they collect, use, and share your personal information ,and how you can set your privacy preferences on their sites and apps.
 
-When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+## 6. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY? <span id="section-6"></span>
 
-An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+***In short:*** *We may transfer, store, and process your information in countries other than your own.*
 
-### Media
+Our servers are located in the United States. If you are accessing our Services from outside the United States, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see "WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?" above), in the United States and other countries.
 
-If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
+If you are a resident in the European Economic Area (EEA) or United Kingdom (EK), then these countries may not necessarily have data protection laws or other similar laws as comprehensive as those in your country. However, we will take all necessary measures to protect your personal information in  accordance with this Privacy Policy and applicable law.
 
-### Cookies
+## 7. HOW LONG DO WE KEEP YOUR INFORMATION? <span id="section-7"></span>
 
-If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+***In short:*** *We keep your information indefinitely, or as long as necessary to fulfill the purposes outlined in this Privacy Policy unless otherwise required by law.*
 
-If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+We only keep your personal information for as long as it is necessary for the purposes set out in this Privacy Policy, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements).
 
-When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+When we have no ongoing legitimate business needs to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deleting is possible.
 
-If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+## 8. DO WE COLLECT INFORMATION FROM MINORS? <span id="section-8"></span>
 
-We use a cookie to show success and failure messages to logged-in users, in response to certain actions, like joining a group. These cookies contain no personal data, and are deleted immediately after the next page load.
+***In short:*** *We do not knowingly collect data from or market to children under 13 years of age.*
 
-We use cookies on group, member, and activity directories to keep track of a user's browsing preferences. These preferences include the last-selected values of the sort and filter dropdowns, as well as pagination information. These cookies contain no personal data, and are deleted after 24 hours.
+We do not knowingly solicit data from or market to children under 13 years of age. By using the Services, you represent that you are at least 18 or that you are the parent of guardian of such a minor and consent to such minor dependent's use of the Services. If we learn that personal information from users less than 18 years of age has been collect without parental consent, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under the age of 13, please contact us using the contact information below.
 
-When a logged-in user creates a new group, we use a number of cookies to keep track of the group creation process. These cookies contain no personal data, and are deleted either upon the successful creation of the group or after 24 hours.
+## 9. WHAT ARE YOUR PRIVACY RIGHTS? <span id="section-9"></span>
 
-## Who has access
+***In short:*** *You may review, change, or terminate your account at any time*
 
-Members of our team have access to the information you provide us. For example, both Administrators and Shop Managers can access:
- - Order information like what was purchased, when it was purchased and where it should be sent, and
- - Customer information like your name, email address, and billing and shipping information.
+If you believe we are unlawfully processing your personal information, please contact us using our contact information below. If you are located in the EEA or UK you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.
 
-Additionally, Administrators can:
- - access and delete the content of any message
- - view and edit all activity items, regardless of context
+If you are located in Switzerland, the contact details for the date protection authorities are available here: https://www.edoeb.admin.ch/edoeb/en/home.html.
 
-Our team members have access to this information to help fulfill orders, process refunds and support you.
+_**Withdrawing your consent:**_ If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us using the contact information below.
 
-## Data retention
+However, please note that this not not affect the lawfulness of the processing before its withdrawal, nor when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
-When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information. We are unable to delete the total cost of your order for financial and legal reasons.
+### **Account Information**
 
-If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+If you would at any time like to review or change the information in your account or terminate your account, you can:
+ - Request to terminate your account. We will deactivate or delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our legal terms and/or comply with applicable legal requirements.
+ - Update your account information on the Service.
 
-For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+## 10. CONTROLS FOR DO-NOT-TRACK FEATURES <span id="section-10"></span>
 
-## Your rights
+Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this state no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communications your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.
 
-If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes. If you would like to exercise your right to access your personal information, please contact us through the contact information below. Additionally, please note we are processing your information in order to fulfill contracts we might have with you (for example: if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above and that your information will be transferred to regions such as Canada and the United States.
+## 11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS? <span id="section-11"></span>
 
-## Where we send your data
+***In short:*** *No, since we provide those rights to anyone who uses our Services.*
 
-Visitor comments may be checked through an automated spam detection service.
+California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you would like to make such a request, please submit your request in writing to us using the contact information provided below.
 
-## Embedded content from other websites
+If you are under 18 years of age, and have a registered account with the Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below and include the email address associated with your account. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from all our systems (e.g. backups, etc.).
 
-Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+## 12. DO WE MAKE UPDATES TO THIS NOTICE? <span id="section-12"></span>
 
-These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+***In short:*** *Yes, we will update this notice as necessary to stay compliant with relevant laws.*
 
-### Sharing your personal information
+We may updated this Privacy Policy from time to time. The updated version will be indicated by an updated "Last updated" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this Privacy Policy frequently to be informed of how we are protecting your information. You may also check our GitHub page at https://github.com/Anonoei/Policies to view how our policies have changed over time.
 
-We may share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use services such as Printful to power our online store – you can read more about how Printful uses your Personal Information here: https://www.printful.com/policies/privacy.
+## 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE? <span id="section-13"></span>
 
-When using our store, We share information with third parties who help us provide our orders and store services to you; for example — We accept payments through PayPal. When processing payments, some of your data will be passed to PayPal, including information required to process or support the payment, such as the purchase total and billing information. Please see the PayPal Privacy Policy for more details.
+If you have questions or comments about this notice, please contact us at:
+ - Our email address: contact@anonoei.com
+ - Our phone: 1-512-256-0191
+ - Our contact form: https://anonoei.com/contact
+ - Or by mail at our address:
+```
+Anonoei
+9450 SW Gemini Dr
+PMB 41238
+Beaverton, OR 97008
+United States
+```
 
-Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
+## 14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATE WE COLLECT FROM YOU? <span id="section-14"></span>
 
-### Do not track
-
-Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
-
-### Minors
-
-The Site is not intended for individuals under the age of 13, and/or the minimum age for your country or region.
-
-### Changes
-
-We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
-
-### Contact us
-
-For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by email at contact@anonoei.com or by using our [contact form](https://anonoei.com/contact).
+You may request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request [here](https://anonoei.com/access-request).
